@@ -27,6 +27,6 @@ E-Library
 
 <p>
   5. Now open following link in the browser . <br>
-http
+http://localhost:5173/
   <br><br>
 </p>
